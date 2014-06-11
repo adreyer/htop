@@ -1,4 +1,4 @@
-name    'raajlanceratgit-htop'
+name    'Raaj-htop'
 version '0.1.0'
 source 'UNKNOWN'
 author 'raajlanceratgit'
